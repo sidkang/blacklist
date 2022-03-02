@@ -1,0 +1,5 @@
+
+*://*.example.com/*
+*://zhidao.baidu.com/*
+*://*.csdn.net/*
+*://*.1024sou.com/*
